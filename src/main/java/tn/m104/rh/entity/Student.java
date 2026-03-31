@@ -5,7 +5,7 @@ import lombok.*;
 import lombok.experimental.FieldDefaults;
 
 // 1ere modification walid
-/ 2eme modification walid 2
+// 2eme modification walid 2
 
 @Entity
 @Getter
