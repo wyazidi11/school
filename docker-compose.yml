@@ -32,7 +32,7 @@ services:
     ports:
       - 8585:85
     depends_on:
-      - app-school-backend
+      - app-backend
    
 volumes:
   db :
